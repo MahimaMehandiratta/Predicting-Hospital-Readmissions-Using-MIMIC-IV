@@ -36,4 +36,5 @@ An interactive Streamlit dashboard is designed to visualize data and predictions
 - Visual tracking of vital lab results important for monitoring kidney functions.
 
 **Objective and Impact**
+
 The project aims to improve patient care and reduce healthcare costs by providing accurate predictions of readmission risks. It leverages data science and machine learning to provide actionable insights that can inform and enhance healthcare strategies and patient management.
